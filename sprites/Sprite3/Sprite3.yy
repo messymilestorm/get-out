@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"get out prototype",
-    "path":"get out prototype.yyp",
+    "name":"lifesaver",
+    "path":"lifesaver.yyp",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

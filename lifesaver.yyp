@@ -1,6 +1,6 @@
 {
   "$GMProject":"v1",
-  "%Name":"get out prototype",
+  "%Name":"lifesaver",
   "AudioGroups":[
     {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
@@ -20,7 +20,7 @@
   "MetaData":{
     "IDEVersion":"2024.14.3.217",
   },
-  "name":"get out prototype",
+  "name":"lifesaver",
   "resources":[
     {"id":{"name":"oBlock","path":"objects/oBlock/oBlock.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},

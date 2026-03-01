@@ -1,3 +1,4 @@
-move_speed = 1;
+x_speed = 0
+y_speed = 0
 
-tilemap=layer_tilemap_get_id("Tiles_Col_1");
+grav = 0.4

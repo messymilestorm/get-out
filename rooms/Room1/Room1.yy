@@ -60,8 +60,8 @@
   ],
   "name":"Room1",
   "parent":{
-    "name":"get out prototype",
-    "path":"get out prototype.yyp",
+    "name":"lifesaver",
+    "path":"lifesaver.yyp",
   },
   "parentRoom":null,
   "physicsSettings":{
